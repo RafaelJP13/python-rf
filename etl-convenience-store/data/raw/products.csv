@@ -1,0 +1,51 @@
+id,name,category,price,supply
+1,Refrigerante Cola 350ml,Bebidas,5.50,24
+2,Refrigerante Cola Zero 350ml,Bebidas,5.50,18
+3,Refrigerante Guarana 350ml,Bebidas,5.00,21
+4,Refrigerante Laranja 350ml,Bebidas,5.00,16
+5,Agua Mineral 500ml,Bebidas,3.00,30
+6,Agua Mineral com Gas 500ml,Bebidas,3.50,22
+7,Suco de Laranja 300ml,Bebidas,6.90,14
+8,Suco de Uva 300ml,Bebidas,6.90,12
+9,Cha Gelado Limao 450ml,Bebidas,5.90,17
+10,Cha Gelado Pessego 450ml,Bebidas,5.90,13
+11,Energy Drink 250ml,Bebidas,8.90,20
+12,Isotonico Laranja 500ml,Bebidas,7.50,11
+13,Cafe Pronto 250ml,Bebidas,6.50,9
+14,Leite Integral 1L,Bebidas,5.90,10
+15,Achocolatado 200ml,Bebidas,4.50,15
+16,Salgadinho Batata 100g,Snacks,7.90,15
+17,Salgadinho Queijo 100g,Snacks,7.90,12
+18,Salgadinho Presunto 100g,Snacks,7.90,10
+19,Amendoim Torrado 100g,Snacks,6.50,18
+20,Castanha de Caju 80g,Snacks,11.90,8
+21,Batata Chips 80g,Snacks,8.50,14
+22,Pipoca Salgada 90g,Snacks,5.90,20
+23,Biscoito Salgado 100g,Snacks,4.90,17
+24,Biscoito Recheado Chocolate 120g,Doces,4.50,19
+25,Biscoito Recheado Morango 120g,Doces,4.50,16
+26,Chocolate ao Leite 90g,Doces,6.50,18
+27,Chocolate Amargo 90g,Doces,7.50,11
+28,Chocolate Branco 90g,Doces,6.90,13
+29,Barra de Cereal Banana 25g,Doces,3.90,22
+30,Barra de Cereal Chocolate 25g,Doces,3.90,20
+31,Bala Mastigavel 100g,Doces,5.50,25
+32,Chiclete Hortela 10 unidades,Doces,4.90,28
+33,Paçoca 50g,Doces,3.50,24
+34,Brigadeiro 30g,Doces,4.90,12
+35,Sanduiche Natural Frango,Alimentos,12.90,8
+36,Sanduiche Natural Presunto e Queijo,Alimentos,11.90,7
+37,Salgado Coxinha,Alimentos,7.50,10
+38,Salgado Esfiha de Carne,Alimentos,7.00,9
+39,Salgado Risoles de Queijo,Alimentos,7.00,6
+40,Croissant Presunto e Queijo,Alimentos,9.90,5
+41,Hot Dog Tradicional,Alimentos,10.90,7
+42,Pao de Queijo 100g,Alimentos,6.50,14
+43,Misto Quente,Alimentos,9.50,8
+44,Sanduiche de Atum,Alimentos,13.90,4
+45,Chiclete Menta 10 unidades,Higiene,4.90,20
+46,Escova Dental,Higiene,8.90,12
+47,Pasta de Dente 90g,Higiene,6.90,10
+48,Lenço de Papel,Higiene,5.50,15
+49,Carregador USB,Cabos e Acessorios,24.90,6
+50,Fone de Ouvido,Cabos e Acessorios,19.90,9

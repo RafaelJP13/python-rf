@@ -1,4 +1,3 @@
-from typing import TypedDict
 import csv
 
 from src.types import Product

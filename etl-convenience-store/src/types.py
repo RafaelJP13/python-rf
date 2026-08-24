@@ -10,8 +10,8 @@ class Product(TypedDict):
 
 
 class TransformedProduct(TypedDict):
-    id: int
+    id: str
     name: str
     category: str
     price: float
-    supply: int
+    supply: str

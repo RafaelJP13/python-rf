@@ -15,7 +15,7 @@ REQUIRED_COLUMNS = {
 
 }
 
-def extract() -> list[Product]:
+def ExtractCsv() -> list[Product]:
     try:
       with open(
             FILE_PATH,

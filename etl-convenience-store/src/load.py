@@ -23,11 +23,10 @@ def load(products: list[TransformedProduct]) -> None:
     for product in products:
         cursor.execute(
             """
-            INSERT INTO products (id, name, category, price, supply)
-            VALUES (%s, %s, %s, %s, %s)
+            INSERT INTO products (name, category, price, supply)
+            VALUES (%s, %s, %s, %s)
             """,
             (
-                product["id"],
                 product["name"],
                 product["category"],
                 product["price"],
